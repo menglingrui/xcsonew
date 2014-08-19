@@ -4,8 +4,8 @@
 	<classpathentry kind="src" output="out/private" path="src/private"/>
 	<classpathentry kind="src" output="out/client" path="src/client"/>
 	<classpathentry kind="src" output="out/test" path="src/test"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/xccb"/>
 	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/xcgl"/>
-	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/xccb"/>
 	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/yalilang"/>
 	<classpathentry kind="src" output="out/resources" path="resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
